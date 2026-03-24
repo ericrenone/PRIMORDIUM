@@ -227,7 +227,7 @@ The Möbius function is the primality analogue of the Kruskal label — it ident
 
 **Theorem (Zhang 2013, Maynard-Tao 2013, Polymath8b 2014).** There exists an absolute constant $C \leq 246$ such that:
 
-$$\#\{n \leq x : p_{n+1} - p_n \leq C\} \gg \frac{x}{(\log x)^2}$$
+$$\{n \leq x : p_{n+1} - p_n \leq C\} \gg \frac{x}{(\log x)^2}$$
 
 The prime pairs with gap $\leq 246$ have **positive relative density** in the set of all consecutive prime pairs. This is the number-theoretic statement that $G_{\text{coord}} > 0$ with a computable, explicit lower bound on coordination density.
 
