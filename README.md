@@ -93,9 +93,6 @@ For an admissible $k$-tuple $\mathcal{H}$, the Hardy-Littlewood singular series 
 
 $$\mathfrak{S}(\mathcal{H}) = \prod_{p \text{ prime}} \left(1 - \frac{1}{p}\right)^{-k}\left(1 - \frac{\nu_p(\mathcal{H})}{p}\right)$$
 
-where $\nu_p(\mathcal{H})$ is the number of distinct residue classes of $\mathcal{H}$ modulo $p$. The Hardy-Littlewood conjecture predicts:
-
-$$\#\{n \leq x : n + h_i \in \mathbb{P} \text{ for all } i\} \;\sim\; \mathfrak{S}(\mathcal{H}) \cdot \frac{x}{(\log x)^k}$$
 
 The singular series $\mathfrak{S}(\mathcal{H})$ encodes **simultaneous compatibility across all prime moduli** — the product over all $p$ captures how the tuple distributes across all residue constraints jointly. Its value for twin primes $\mathcal{H} = \{0, 2\}$:
 
